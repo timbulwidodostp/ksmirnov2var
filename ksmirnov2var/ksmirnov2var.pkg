@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'ksmirnov2var': Kolmogorov-Smirnov equality-of-distributions test for 2 variables Use ksmirnov2var With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f ksmirnov2var.ado
+f ksmirnov2var.sthlp
